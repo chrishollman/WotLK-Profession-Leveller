@@ -1,0 +1,434 @@
+[
+    {
+        "name": "angerforge",
+        "realmid": 763,
+        "region": "us",
+        "auctionhouseids": [
+            473,
+            474
+        ]
+    },
+    {
+        "name": "arugal",
+        "realmid": 687,
+        "region": "us",
+        "auctionhouseids": [
+            323,
+            324
+        ]
+    },
+    {
+        "name": "ashkandi",
+        "realmid": 672,
+        "region": "us",
+        "auctionhouseids": [
+            293,
+            294
+        ]
+    },
+    {
+        "name": "atiesh",
+        "realmid": 665,
+        "region": "us",
+        "auctionhouseids": [
+            279,
+            280
+        ]
+    },
+    {
+        "name": "azuresong",
+        "realmid": 668,
+        "region": "us",
+        "auctionhouseids": [
+            285,
+            286
+        ]
+    },
+    {
+        "name": "benediction",
+        "realmid": 699,
+        "region": "us",
+        "auctionhouseids": [
+            347,
+            348
+        ]
+    },
+    {
+        "name": "bloodsail buccaneers",
+        "realmid": 685,
+        "region": "us",
+        "auctionhouseids": [
+            319,
+            320
+        ]
+    },
+    {
+        "name": "earthfury",
+        "realmid": 701,
+        "region": "us",
+        "auctionhouseids": [
+            351,
+            352
+        ]
+    },
+    {
+        "name": "eranikus",
+        "realmid": 762,
+        "region": "us",
+        "auctionhouseids": [
+            471,
+            472
+        ]
+    },
+    {
+        "name": "faerlina",
+        "realmid": 681,
+        "region": "us",
+        "auctionhouseids": [
+            311,
+            312
+        ]
+    },
+    {
+        "name": "grobbulus",
+        "realmid": 684,
+        "region": "us",
+        "auctionhouseids": [
+            317,
+            318
+        ]
+    },
+    {
+        "name": "maladath",
+        "realmid": 758,
+        "region": "us",
+        "auctionhouseids": [
+            463,
+            464
+        ]
+    },
+    {
+        "name": "mankrik",
+        "realmid": 669,
+        "region": "us",
+        "auctionhouseids": [
+            287,
+            288
+        ]
+    },
+    {
+        "name": "myzrael",
+        "realmid": 666,
+        "region": "us",
+        "auctionhouseids": [
+            281,
+            282
+        ]
+    },
+    {
+        "name": "old blanchy",
+        "realmid": 667,
+        "region": "us",
+        "auctionhouseids": [
+            283,
+            284
+        ]
+    },
+    {
+        "name": "pagle",
+        "realmid": 670,
+        "region": "us",
+        "auctionhouseids": [
+            289,
+            290
+        ]
+    },
+    {
+        "name": "remulos",
+        "realmid": 686,
+        "region": "us",
+        "auctionhouseids": [
+            321,
+            322
+        ]
+    },
+    {
+        "name": "skyfury",
+        "realmid": 757,
+        "region": "us",
+        "auctionhouseids": [
+            461,
+            462
+        ]
+    },
+    {
+        "name": "sulfuras",
+        "realmid": 697,
+        "region": "us",
+        "auctionhouseids": [
+            343,
+            344
+        ]
+    },
+    {
+        "name": "westfall",
+        "realmid": 673,
+        "region": "us",
+        "auctionhouseids": [
+            295,
+            296
+        ]
+    },
+    {
+        "name": "whitemane",
+        "realmid": 674,
+        "region": "us",
+        "auctionhouseids": [
+            297,
+            298
+        ]
+    },
+    {
+        "name": "windseeker",
+        "realmid": 698,
+        "region": "us",
+        "auctionhouseids": [
+            345,
+            346
+        ]
+    },
+    {
+        "name": "yojamba",
+        "realmid": 688,
+        "region": "us",
+        "auctionhouseids": [
+            325,
+            326
+        ]
+    },
+    {
+        "name": "amnennar",
+        "realmid": 728,
+        "region": "eu",
+        "auctionhouseids": [
+            405,
+            406
+        ]
+    },
+    {
+        "name": "ashbringer",
+        "realmid": 733,
+        "region": "eu",
+        "auctionhouseids": [
+            415,
+            416
+        ]
+    },
+    {
+        "name": "auberdine",
+        "realmid": 707,
+        "region": "eu",
+        "auctionhouseids": [
+            364,
+            363
+        ]
+    },
+    {
+        "name": "chromie",
+        "realmid": 709,
+        "region": "eu",
+        "auctionhouseids": [
+            367,
+            368
+        ]
+    },
+    {
+        "name": "earthshaker",
+        "realmid": 738,
+        "region": "eu",
+        "auctionhouseids": [
+            426,
+            425
+        ]
+    },
+    {
+        "name": "everlook",
+        "realmid": 706,
+        "region": "eu",
+        "auctionhouseids": [
+            362,
+            361
+        ]
+    },
+    {
+        "name": "firemaw",
+        "realmid": 718,
+        "region": "eu",
+        "auctionhouseids": [
+            386,
+            385
+        ]
+    },
+    {
+        "name": "flamegor",
+        "realmid": 719,
+        "region": "eu",
+        "auctionhouseids": [
+            388,
+            387
+        ]
+    },
+    {
+        "name": "gehennas",
+        "realmid": 721,
+        "region": "eu",
+        "auctionhouseids": [
+            392,
+            391
+        ]
+    },
+    {
+        "name": "giantstalker",
+        "realmid": 759,
+        "region": "eu",
+        "auctionhouseids": [
+            465,
+            466
+        ]
+    },
+    {
+        "name": "golemagg",
+        "realmid": 716,
+        "region": "eu",
+        "auctionhouseids": [
+            381,
+            382
+        ]
+    },
+    {
+        "name": "hydraxian waterlords",
+        "realmid": 725,
+        "region": "eu",
+        "auctionhouseids": [
+            399,
+            400
+        ]
+    },
+    {
+        "name": "jin'do",
+        "realmid": 764,
+        "region": "eu",
+        "auctionhouseids": [
+            475,
+            476
+        ]
+    },
+    {
+        "name": "lakeshire",
+        "realmid": 708,
+        "region": "eu",
+        "auctionhouseids": [
+            366,
+            365
+        ]
+    },
+    {
+        "name": "mandokir",
+        "realmid": 748,
+        "region": "eu",
+        "auctionhouseids": [
+            445,
+            446
+        ]
+    },
+    {
+        "name": "mirage raceway",
+        "realmid": 711,
+        "region": "eu",
+        "auctionhouseids": [
+            371,
+            372
+        ]
+    },
+    {
+        "name": "mograine",
+        "realmid": 726,
+        "region": "eu",
+        "auctionhouseids": [
+            401,
+            402
+        ]
+    },
+    {
+        "name": "nethergarde keep",
+        "realmid": 713,
+        "region": "eu",
+        "auctionhouseids": [
+            376,
+            375
+        ]
+    },
+    {
+        "name": "patchwerk",
+        "realmid": 717,
+        "region": "eu",
+        "auctionhouseids": [
+            384,
+            383
+        ]
+    },
+    {
+        "name": "pyrewood village",
+        "realmid": 710,
+        "region": "eu",
+        "auctionhouseids": [
+            369,
+            370
+        ]
+    },
+    {
+        "name": "razorfen",
+        "realmid": 712,
+        "region": "eu",
+        "auctionhouseids": [
+            373,
+            374
+        ]
+    },
+    {
+        "name": "sulfuron",
+        "realmid": 715,
+        "region": "eu",
+        "auctionhouseids": [
+            380,
+            379
+        ]
+    },
+    {
+        "name": "thekal",
+        "realmid": 760,
+        "region": "eu",
+        "auctionhouseids": [
+            467,
+            468
+        ]
+    },
+    {
+        "name": "transcendence",
+        "realmid": 736,
+        "region": "eu",
+        "auctionhouseids": [
+            421,
+            422
+        ]
+    },
+    {
+        "name": "venoxis",
+        "realmid": 722,
+        "region": "eu",
+        "auctionhouseids": [
+            393,
+            394
+        ]
+    }
+]
